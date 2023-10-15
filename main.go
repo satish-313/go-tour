@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println(c1.RandomNumber())
-	fmt.Println(c1.Mathlogic())
+	fmt.Println("golang tour")
+	c1.TypeOf()
 }
