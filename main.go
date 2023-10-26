@@ -2,12 +2,11 @@ package main
 
 import (
 	"fmt"
-	"gotour/c3"
-	// c1 "gotour/chapter1"
+	// "gotour/c1"
 	// "gotour/c2"
+	//"gotour/c3"
 )
 
 func main() {
 	fmt.Println("golang tour")
-	c3.Function()
 }
